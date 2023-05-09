@@ -22,3 +22,9 @@
 #topNav > ul > li > a:hover {
   color: gray;
 }
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: blue;
+}
